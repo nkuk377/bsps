@@ -1,4 +1,4 @@
-## Web site about banning the sale of small pets in UK
+## Web site: ban-small-pet-sales in UK
 
 🔗 <a href="https://bansmallpetsales.org" target="_blank" rel="noopener noreferrer">bansmallpetsales.org [↗]</a>
 
